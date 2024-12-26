@@ -10,18 +10,13 @@
 ## Education:
 
 #### 1. [Universitas Pelitabangsa](https://ecampus.pelitabangsa.university/pb/) | Teknik Informatika | Bekasi `2019-2023`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+
  #### 2. [SMKN 1 Cikarang Pusat](https://www.smkn1cikarangpusat.sch.id/) | Teknik Elektronika Industri | Bekasi `2015-2018`
-   - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+#### 1. [PT. APM Hyunday Transys](https://www.hyundai-transys.com/en/company/business-site-view.do?nSeq=178&sType=A&sKind=A) | Operator Seat Asembley| Bekasi `Maret'2022 - Now`
+   
+#### 2. [PT. Showa Indonesia Mfg](https://en.perusahaanjepang.com/company/pt-showa-indonesia-manufacturing/) | Operator Produksi | Bekasi `2019-2020`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
