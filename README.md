@@ -14,7 +14,7 @@
  #### 2. [SMKN 1 Cikarang Pusat](https://www.smkn1cikarangpusat.sch.id/) | Teknik Elektronika Industri | Bekasi `2015-2018`
 
 ## Work Experience:
-#### 1. [PT. APM Hyunday Transys](https://www.hyundai-transys.com/en/company/business-site-view.do?nSeq=178&sType=A&sKind=A) | Operator Seat Asembley| Bekasi `Maret'2022 - Now`
+#### 1. [PT. APM Hyunday Transys](https://www.hyundai-transys.com/en/company/business-site-view.do?nSeq=178&sType=A&sKind=A) | Operator Seat Asembly | Bekasi `Maret'2022 - Now`
    
 #### 2. [PT. Showa Indonesia Mfg](https://en.perusahaanjepang.com/company/pt-showa-indonesia-manufacturing/) | Operator Produksi | Bekasi `2019-2020`
    - Manage to update CAD of distribution lines using AutoCAD
@@ -37,17 +37,17 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@jahidinsholeh4360#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@jahidinsholeh4360#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/jahidin1231#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jahidin1231#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/-#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/-#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/username#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/username#gh-dark-mode-only)
 
 
 
