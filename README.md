@@ -1,4 +1,4 @@
-# Hi there, I'm Jahidin[Jahidin sholeh]() 👋
+# Hi there, I'm Jahidin - [Jahidin sholeh]() 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
